@@ -135,12 +135,12 @@
     "cross-env": "^10.1.0",
     "esbuild": "0.28.1",
     "exceljs": "^4.4.0",
-    "markdownlint-cli2": "^0.21.0",
+    "markdownlint-cli2": "^0.23.3",
     "tsx": "^4.21.0",
     "typescript": "^5.7.2",
     "vite": "^6.0.7",
     "vite-plugin-pwa": "^1.2.0",
-    "vitest": "^4.1.0"
+    "vitest": "^5.0.4"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.91.1",
@@ -166,7 +166,7 @@
     "d3": "^7.9.0",
     "deck.gl": "^9.2.11",
     "dodopayments-checkout": "^1.8.0",
-    "dompurify": "^3.4.11",
+    "dompurify": "^3.4.16",
     "fast-xml-parser": "^5.8.0",
     "globe.gl": "^2.45.0",
     "h3-js": "^4.4.0",
@@ -175,7 +175,7 @@
     "i18next-browser-languagedetector": "^8.2.1",
     "jmespath": "^0.16.0",
     "jose": "^6.2.2",
-    "maplibre-gl": "^5.16.0",
+    "maplibre-gl": "^6.4.1",
     "marked": "^17.0.3",
     "onnxruntime-web": "^1.26.0",
     "papaparse": "^5.5.3",
